@@ -9,7 +9,6 @@ Este é um projeto simples de **calculadora** desenvolvida em **Java**, utilizan
 - Suporte a cálculos com múltiplos dígitos.
 - Interface gráfica simples e amigável.
 - Botões responsivos utilizando **eventos ActionListener**.
-- Tratamento básico de erros (como divisão por zero).
 
 ---
 
